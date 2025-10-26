@@ -6,5 +6,7 @@ public class PhysicalMoves : ScriptableObject {
     string desc;
     float dmg;
     float hpCost;
+    string statDebuff;
+    float statMult;
 }
 

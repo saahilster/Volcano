@@ -8,4 +8,7 @@ public class ManaMoves : ScriptableObject
     string desc;
     float dmg;
     float manaCost;
+    string statDebuff;
+    float statMult;
 }
+
